@@ -13,7 +13,7 @@ Please see the notebook:
 For direct use (no training needed), please download the pretrained checkpoints
 
 -  for the 'loss_mode="ours": [mrgan_tired_best.pth](https://www.dropbox.com/scl/fo/lh7vrzxtx689q4a2xw6s6/AELD_F9VpQ_QGqg_XqvgvBQ?rlkey=bj6un44lara1xhpry8cqnh6kr&st=6h28l8fr&dl=0) 
--for the 'loss_mode="no_Lm_tv": [mrgan_no_Lm_tv_best3.pth](https://www.dropbox.com/scl/fo/lh7vrzxtx689q4a2xw6s6/AELD_F9VpQ_QGqg_XqvgvBQ?rlkey=bj6un44lara1xhpry8cqnh6kr&st=6h28l8fr&dl=0)
+-  for the 'loss_mode="no_Lm_tv": [mrgan_no_Lm_tv_best3.pth](https://www.dropbox.com/scl/fo/lh7vrzxtx689q4a2xw6s6/AELD_F9VpQ_QGqg_XqvgvBQ?rlkey=bj6un44lara1xhpry8cqnh6kr&st=6h28l8fr&dl=0)
 
 The TIReD dataset was made available by the authors at:  
 - [https://github.com/TIReD2020/TIReD](https://github.com/TIReD2020/TIReD)
