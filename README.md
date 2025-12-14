@@ -10,7 +10,7 @@ Please see the notebook (training + evaluation) for the implementation code and 
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
 
-For the purpose of quick evaluation and testing (~ 3 minutes), please see 
+For the purpose of quick evaluation and testing (no training, use pretrained models ~ 3 minutes for testing), please see 
 
 - [`Instructions_for_OSC_testing.pdf`](./Instructions_for_OSC_testing.pdf)
 
