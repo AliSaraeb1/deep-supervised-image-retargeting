@@ -10,7 +10,7 @@ Please see the notebook for the implementation code and details of implementatio
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
 
-To avoid copyright issues, we don't provide the images that the model outputted, but we make the metric tables (confirming the success of the method) that the model outputted available here
+To avoid copyright issues, we don't provide the images that the model outputted, but we make the metric tables (confirming the success of the method: higher means better) that the model outputted available here
 
 - [`mrgan_run.out`](./mrgan_run.out)
 
