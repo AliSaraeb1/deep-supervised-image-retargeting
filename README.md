@@ -12,7 +12,7 @@ Please see the notebook for the implementation code and details of implementatio
 
 To avoid copyright issues, we don't provide the images that the model outputted, but we make the metric tables (confirming the success of the method) that the model outputted available here
 
-- [`loss_mode_results.pdf`](./loss_mode_results.pdf)
+- [`mrgan_run.out`](./mrgan_run.out)
 
 We make the pretrained checkpoints available for download and use here:
 
