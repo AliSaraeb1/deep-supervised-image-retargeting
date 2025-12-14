@@ -18,6 +18,10 @@ To avoid copyright issues, we don't provide the images that the model outputted,
 
 - [`mrgan_run.out`](./mrgan_run.out)
 
+We make the code evaluating the pretrained models available here 
+
+- [`mrgan_run_pretrained.py`](./mrgan_run_pretrained.py)
+
 We make the pretrained checkpoints available for download and use here:
 
 -  for the loss_mode="ours": [mrgan_tired_best.pth](https://www.dropbox.com/scl/fo/lh7vrzxtx689q4a2xw6s6/AELD_F9VpQ_QGqg_XqvgvBQ?rlkey=bj6un44lara1xhpry8cqnh6kr&st=6h28l8fr&dl=0) 
