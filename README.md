@@ -14,7 +14,7 @@ VERY IMPORTANT: Please see the notebook (training + evaluation) for the implemen
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
 
-To avoid copyright issues, we don't provide here the images that the model outputted (see Saraeb.1 folder on OSC/report), but we make the metric tables (confirming the success of the method: higher means better) that the model outputted available here
+To avoid copyright issues, we don't provide here the images that the model outputted (see Saraeb.1 folder on scratch OSC/report), but we make the metric tables (confirming the success of the method: higher means better) that the model outputted available here
 
 - [`mrgan_run.out`](./mrgan_run.out)
 
