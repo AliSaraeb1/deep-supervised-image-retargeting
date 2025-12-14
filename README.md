@@ -12,7 +12,7 @@ Please see the notebook (training + evaluation) for the implementation code and 
 
 For the purpose of quick evaluation and testing (~ 3 minutes), please see 
 
-- [`Instructions for OSC testing.pdf`](./Instructions for OSC testing.pdf)
+- [`Instructions_for_OSC_testing.pdf`](./Instructions_for_OSC_testing.pdf)
 
 To avoid copyright issues, we don't provide the images that the model outputted, but we make the metric tables (confirming the success of the method: higher means better) that the model outputted available here
 
