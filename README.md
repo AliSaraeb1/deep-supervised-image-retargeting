@@ -6,9 +6,13 @@ This repository contains a PyTorch implementation of the method from
 > **“Deep Supervised Image Retargeting”**, IEEE TCSVT, 2021.  
 > [https://ieeexplore.ieee.org/document/9428129](https://ieeexplore.ieee.org/document/9428129)
 
-Please see the notebook for the implementation code and details of implementation:
+Please see the notebook (training + evaluation) for the implementation code and details of implementation (see below for quick test):
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
+
+For the purpose of quick evaluation and testing (~ 3 minutes), please see 
+
+- [`Instructions for OSC testing.pdf`](./Instructions for OSC testing.pdf)
 
 To avoid copyright issues, we don't provide the images that the model outputted, but we make the metric tables (confirming the success of the method: higher means better) that the model outputted available here
 
