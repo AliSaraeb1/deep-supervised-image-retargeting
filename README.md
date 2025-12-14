@@ -6,9 +6,13 @@ This repository contains a PyTorch implementation of the method from
 > **“Deep Supervised Image Retargeting”**, IEEE TCSVT, 2021.  
 > [https://ieeexplore.ieee.org/document/9428129](https://ieeexplore.ieee.org/document/9428129)
 
-Please see the notebook:
+Please see the notebook for the implementation code and details of implementation:
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
+
+To avoid copyright issues, we don't provide the images that the model outputted, but we make the metric tables (confirming the success of the method) that the model outputted available here
+
+- [`loss_mode_results.pdf`](./loss_mode_results.pdf)
 
 We make the pretrained checkpoints available for download and use here:
 
